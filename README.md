@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Model Optimization
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 - 📫 How to reach me - Twitter @RealOgbogu
+- 📧 E: ogbogubenedict@gmail.com 
 
 <!---
 bogbogu/bogbogu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
